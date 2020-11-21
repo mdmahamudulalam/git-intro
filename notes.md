@@ -10,4 +10,9 @@
   134  git push -u origin main
   135  vim notes.md
   136  history
+137  vim notes.md
+  138  git add .
+  139  git commit -m "create notes.md & saved history"
+  140  git push -u origin main
+  141  history
 
